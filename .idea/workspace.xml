@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11989cf2-d000-444a-b071-ee59a44fdffa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loginapp/LoginApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginapp/LoginApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hp/Desktop/st - Copy",
@@ -78,7 +80,7 @@
       <updated>1731859134845</updated>
       <workItem from="1731859136197" duration="5213000" />
       <workItem from="1731951673873" duration="492000" />
-      <workItem from="1733212214866" duration="9729000" />
+      <workItem from="1733212214866" duration="9810000" />
     </task>
     <servers />
   </component>
